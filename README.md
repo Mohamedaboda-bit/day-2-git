@@ -16,6 +16,7 @@ git push remoteName :branchName
 ```sh
 git push remoteName :branchName
 
+```
 
 # Tell me how to checkout another branch without committing changes
 ```sh
