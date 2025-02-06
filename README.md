@@ -40,5 +40,5 @@ git push origins :v1.7
 ```
 
 ```md
-(img.png)
+![Alt text](img.png)
 ```
