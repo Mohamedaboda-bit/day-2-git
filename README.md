@@ -28,3 +28,17 @@ git checkout main
 # Tell me how to list tags
 ```sh
 git tag
+
+```
+
+# Tell me how to delete tag locally and remotely.
+
+```sh
+git tag -d 'v1.7'
+
+git push origins :v1.7
+```
+
+```md
+(img.png)
+```
