@@ -39,6 +39,4 @@ git tag -d 'v1.7'
 git push origins :v1.7
 ```
 
-```md
 ![Alt text](img.png)
-```
